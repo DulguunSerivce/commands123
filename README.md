@@ -3,6 +3,12 @@ Test туришлтаар хийж байгаа репо юмаа
 
 ЮМаааа.
 
+```javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+```
+
 ### Командуудын жасгаалт :blue_heart:
 ---
 'git add *' **Бүх шинэ болон өөрчлөгдсөн файлуудыг стэйжилнэ.**
