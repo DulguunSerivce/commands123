@@ -1,4 +1,4 @@
-#Tusuld oroltson suragchid
+#Tusuld oroltson suragchid :octocat:
 
-* B.Dashdorj
+* :rocket: B.Dashdorj
 * Bagaa
