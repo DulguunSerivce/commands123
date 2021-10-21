@@ -1,4 +1,4 @@
 #Tusuld oroltson suragchid
 
-*B.Dashdorj
-*Bagaa
+* B.Dashdorj
+* Bagaa
