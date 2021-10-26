@@ -19,6 +19,8 @@ function test() {
 
 'git add [file.txt]' **File.txt файлыг стэйжилнэ**
 
+'git remote prune [remote_name]' **Local дээрх remote-г цэвэрлэнэ.**
+
 ##Order :star2::star2:
 
 1. Item 1
